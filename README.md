@@ -38,7 +38,7 @@ Welcome to the Tech News Blog project name kutyTech. This dynamic web applicatio
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/kutyTech.git
+   git clone https://github.com/oluwakuty/kutyTech.git
    ```
 
 2. **Navigate to the Project Directory**:
